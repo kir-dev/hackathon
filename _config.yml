@@ -1,0 +1,5 @@
+name: Kir-Dev Code Retreat 2013
+markdown: redcarpet
+pygments: true
+
+baseurl: /code-retreat/
